@@ -1,0 +1,46 @@
+// Definimos las variables de color
+@dark-gray: #333;
+@white: #fff;
+
+// Definimos el mixin para el display flex y el justify-content center
+.flex-center() {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.App h1 {
+  text-align: center;
+  color: blue;
+}
+
+.card-container {
+  .flex-center();
+  flex-wrap: wrap;
+}
+
+// Anidamos los selectores del encabezado
+.header {
+  background-color: @dark-gray;
+  color: @white;
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  p {
+    font-size: 1em;
+    margin-top: 10px;
+  }
+}

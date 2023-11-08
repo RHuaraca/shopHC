@@ -1,0 +1,38 @@
+[
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81aF3Ob-2KL._AC_SL1500_.jpg",
+    "title": "Audífonos inalámbricos",
+    "description": "Audífonos Bluetooth con cancelación de ruido y micrófono incorporado.",
+    "price": "49.99"
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg",
+    "title": "Monitor LED",
+    "description": "Monitor curvo de 27 pulgadas con resolución Full HD y altavoces integrados.",
+    "price": "199.99"
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg",
+    "title": "Laptop Gamer",
+    "description": "Laptop con procesador Intel Core i7, memoria RAM de 16 GB y disco duro de 1 TB.",
+    "price": "999.99"
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81aF3Ob-2KL._AC_SL1500_.jpg",
+    "title": "Audífonos inalámbricos",
+    "description": "Audífonos Bluetooth con cancelación de ruido y micrófono incorporado.",
+    "price": "49.99"
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg",
+    "title": "Monitor LED",
+    "description": "Monitor curvo de 27 pulgadas con resolución Full HD y altavoces integrados.",
+    "price": "199.99"
+  },
+  {
+    "image": "https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg",
+    "title": "Laptop Gamer",
+    "description": "Laptop con procesador Intel Core i7, memoria RAM de 16 GB y disco duro de 1 TB.",
+    "price": "999.99"
+  }
+]

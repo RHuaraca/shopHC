@@ -1,38 +1,40 @@
 .App {
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+}
+
+.App h1 {
   text-align: center;
+  color: blue;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.card-container {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+/* Estilos para el encabezado */
+.header {
+  background-color: #333; /* Fondo de color gris oscuro */
+  color: #fff; /* Texto en color blanco */
+  padding: 20px; /* Espaciado interno */
+  text-align: center; /* Alineación centrada del contenido */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Estilos para el título */
+.header h1 {
+  font-size: 2em; /* Tamaño de fuente grande para el título */
+}
+
+/* Estilos para el subtítulo */
+.header h2 {
+  font-size: 1.5em; /* Tamaño de fuente más grande para el subtítulo */
+}
+
+/* Estilos para el párrafo de descripción */
+.header p {
+  font-size: 1em; /* Tamaño de fuente estándar para el párrafo */
+  margin-top: 10px; /* Espaciado superior para el párrafo */
 }
